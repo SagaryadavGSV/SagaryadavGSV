@@ -142,7 +142,7 @@
   <text x="450" y="88" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" letter-spacing="2" filter="url(#glow-strong)"> Sagar Yadav </text>
 
   <!-- Subtitle with tech-green accent -->
-  <text x="450" y="116" font-size="13" fill="#00ffb2" text-anchor="middle" font-family="'Courier New', monospace" letter-spacing="1" filter="url(#glow)">⚡ Electrical Engineer · Embedded Systems · IoT · FPGA Research ⚡</text>
+  <text x="450" y="116" font-size="13" fill="#00ffb2" text-anchor="middle" font-family="'Courier New', monospace" letter-spacing="1" filter="url(#glow)">⚡ Electrical Engineer · Embedded Systems · IoT+AI · FPGA⚡</text>
 
   <!-- Decorative horizontal trace through center -->
   <line x1="200" y1="130" x2="340" y2="130" stroke="#00ffb2" stroke-width="0.8" opacity="0.3" filter="url(#glow)"/>
@@ -151,7 +151,7 @@
   <circle cx="560" cy="130" r="2.5" fill="#00ffb2" opacity="0.5"/>
 
   <!-- Location tag -->
-  <text x="450" y="152" font-size="11" fill="#7fffda" text-anchor="middle" font-family="'Courier New', monospace" opacity="0.7">📍 Lucknow, India  |  Gati Shakti Vishwavidyalaya (MoR)</text>
+  <text x="450" y="152" font-size="11" fill="#7fffda" text-anchor="middle" font-family="'Courier New', monospace" opacity="0.7">📍 Lucknow, India  |  Gati Shakti Vishwavidyalaya (Ministry of Railway)</text>
 
   <!-- Bottom border trace -->
   <line x1="0" y1="195" x2="900" y2="195" stroke="#00ffb2" stroke-width="0.5" opacity="0.2"/>
