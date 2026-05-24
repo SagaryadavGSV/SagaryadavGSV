@@ -4,7 +4,7 @@
 
 # Sagar Yadav
 
-### ⚡ Electrical Engineer · Embedded Systems · IoT · FPGA Research
+### ⚡ Electrical Engineer'29 · Embedded Systems · IoT · FPGA Research (Learning)
 
 **Gati Shakti Vishwavidyalaya (Ministry of Railways), Vadodara**
 
