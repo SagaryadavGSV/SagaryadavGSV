@@ -109,7 +109,7 @@
     <line x1="44" y1="92" x2="44" y2="98" stroke="#00ffb2" stroke-width="1.2"/>
     <line x1="52" y1="92" x2="52" y2="98" stroke="#00ffb2" stroke-width="1.2"/>
     <line x1="60" y1="92" x2="60" y2="98" stroke="#00ffb2" stroke-width="1.2"/>
-    <text x="56" y="84" font-size="6" fill="#00ffb2" text-anchor="middle" font-family="monospace">IC</text>
+    <text x="56" y="84" font-size="6" fill="#00ffb2" text-anchor="middle" font-family="monospace"></text>
   </g>
 
   <!-- IC chip — right -->
@@ -139,7 +139,7 @@
   </circle>
 
   <!-- Main title -->
-  <text x="450" y="88" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" letter-spacing="2" filter="url(#glow-strong)">Sagar Yadav</text>
+  <text x="450" y="88" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" letter-spacing="2" filter="url(#glow-strong)"> Sagar Yadav </text>
 
   <!-- Subtitle with tech-green accent -->
   <text x="450" y="116" font-size="13" fill="#00ffb2" text-anchor="middle" font-family="'Courier New', monospace" letter-spacing="1" filter="url(#glow)">⚡ Electrical Engineer · Embedded Systems · IoT · FPGA Research ⚡</text>
