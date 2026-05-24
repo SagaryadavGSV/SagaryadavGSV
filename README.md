@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&height=60&lines=Hey+there!+I'm+Sagar+Yadav+%F0%9F%91%8B;Electrical+Engineer+%E2%9A%A1;Embedded+Systems+%7C+IoT+%7C+FPGA;Building+at+the+edge+of+hardware+%26+code" alt="Typing SVG" />
+# Sagar Yadav
 
-</div>
+### ⚡ Electrical Engineer · Embedded Systems · IoT · FPGA Research
+
+**Gati Shakti Vishwavidyalaya (Ministry of Railways), Vadodara**
+
+📍 Lucknow, India
 
 <br/>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagaryadavgsv)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagaryadavgsv.work@gmail.com)
@@ -108,8 +108,6 @@ Transportation and logistics optimisation using NumPy, Pandas, and OpenCV-based 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" />
 
 *"Building at the edge of hardware and intelligence."*
 
