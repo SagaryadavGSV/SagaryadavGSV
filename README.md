@@ -1,164 +1,14 @@
 <div align="center">
 
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Initializing+systems...;Loading+FPGA+modules...;Booting+embedded+firmware...;Connecting+IoT+sensors...;Ready." alt="boot sequence" />
-</picture>
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
-<br>
+<br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
-  <defs>
-    <!-- Dark PCB background gradient -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0f0a"/>
-      <stop offset="50%" stop-color="#0d1f17"/>
-      <stop offset="100%" stop-color="#091520"/>
-    </linearGradient>
-    <!-- Glow filter for traces -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="glow-strong" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <!-- Pulse animation for nodes -->
-    <radialGradient id="node-pulse" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00ffb2" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#00ffb2" stop-opacity="0"/>
-    </radialGradient>
-    <!-- Trace line gradient (current flow effect) -->
-    <linearGradient id="trace-h" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00ffb2" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00ffb2" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#00ffb2" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="trace-v" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#00ffb2" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00ffb2" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#00ffb2" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background -->
-  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
-
-  <!-- PCB grid dots (subtle) -->
-  <g opacity="0.12" fill="#00ffb2">
-    <circle cx="30" cy="30" r="1"/><circle cx="60" cy="30" r="1"/><circle cx="90" cy="30" r="1"/><circle cx="120" cy="30" r="1"/><circle cx="150" cy="30" r="1"/><circle cx="180" cy="30" r="1"/><circle cx="210" cy="30" r="1"/><circle cx="240" cy="30" r="1"/><circle cx="270" cy="30" r="1"/><circle cx="300" cy="30" r="1"/><circle cx="330" cy="30" r="1"/><circle cx="360" cy="30" r="1"/><circle cx="390" cy="30" r="1"/><circle cx="420" cy="30" r="1"/><circle cx="450" cy="30" r="1"/><circle cx="480" cy="30" r="1"/><circle cx="510" cy="30" r="1"/><circle cx="540" cy="30" r="1"/><circle cx="570" cy="30" r="1"/><circle cx="600" cy="30" r="1"/><circle cx="630" cy="30" r="1"/><circle cx="660" cy="30" r="1"/><circle cx="690" cy="30" r="1"/><circle cx="720" cy="30" r="1"/><circle cx="750" cy="30" r="1"/><circle cx="780" cy="30" r="1"/><circle cx="810" cy="30" r="1"/><circle cx="840" cy="30" r="1"/><circle cx="870" cy="30" r="1"/>
-    <circle cx="30" cy="60" r="1"/><circle cx="60" cy="60" r="1"/><circle cx="90" cy="60" r="1"/><circle cx="120" cy="60" r="1"/><circle cx="150" cy="60" r="1"/><circle cx="180" cy="60" r="1"/><circle cx="210" cy="60" r="1"/><circle cx="240" cy="60" r="1"/><circle cx="270" cy="60" r="1"/><circle cx="300" cy="60" r="1"/><circle cx="330" cy="60" r="1"/><circle cx="360" cy="60" r="1"/><circle cx="390" cy="60" r="1"/><circle cx="420" cy="60" r="1"/><circle cx="450" cy="60" r="1"/><circle cx="480" cy="60" r="1"/><circle cx="510" cy="60" r="1"/><circle cx="540" cy="60" r="1"/><circle cx="570" cy="60" r="1"/><circle cx="600" cy="60" r="1"/><circle cx="630" cy="60" r="1"/><circle cx="660" cy="60" r="1"/><circle cx="690" cy="60" r="1"/><circle cx="720" cy="60" r="1"/><circle cx="750" cy="60" r="1"/><circle cx="780" cy="60" r="1"/><circle cx="810" cy="60" r="1"/><circle cx="840" cy="60" r="1"/><circle cx="870" cy="60" r="1"/>
-    <circle cx="30" cy="90" r="1"/><circle cx="60" cy="90" r="1"/><circle cx="90" cy="90" r="1"/><circle cx="120" cy="90" r="1"/><circle cx="150" cy="90" r="1"/><circle cx="180" cy="90" r="1"/><circle cx="210" cy="90" r="1"/><circle cx="240" cy="90" r="1"/><circle cx="270" cy="90" r="1"/><circle cx="300" cy="90" r="1"/><circle cx="330" cy="90" r="1"/><circle cx="360" cy="90" r="1"/><circle cx="390" cy="90" r="1"/><circle cx="420" cy="90" r="1"/><circle cx="450" cy="90" r="1"/><circle cx="480" cy="90" r="1"/><circle cx="510" cy="90" r="1"/><circle cx="540" cy="90" r="1"/><circle cx="570" cy="90" r="1"/><circle cx="600" cy="90" r="1"/><circle cx="630" cy="90" r="1"/><circle cx="660" cy="90" r="1"/><circle cx="690" cy="90" r="1"/><circle cx="720" cy="90" r="1"/><circle cx="750" cy="90" r="1"/><circle cx="780" cy="90" r="1"/><circle cx="810" cy="90" r="1"/><circle cx="840" cy="90" r="1"/><circle cx="870" cy="90" r="1"/>
-    <circle cx="30" cy="120" r="1"/><circle cx="60" cy="120" r="1"/><circle cx="90" cy="120" r="1"/><circle cx="120" cy="120" r="1"/><circle cx="150" cy="120" r="1"/><circle cx="180" cy="120" r="1"/><circle cx="210" cy="120" r="1"/><circle cx="240" cy="120" r="1"/><circle cx="270" cy="120" r="1"/><circle cx="300" cy="120" r="1"/><circle cx="330" cy="120" r="1"/><circle cx="360" cy="120" r="1"/><circle cx="390" cy="120" r="1"/><circle cx="420" cy="120" r="1"/><circle cx="450" cy="120" r="1"/><circle cx="480" cy="120" r="1"/><circle cx="510" cy="120" r="1"/><circle cx="540" cy="120" r="1"/><circle cx="570" cy="120" r="1"/><circle cx="600" cy="120" r="1"/><circle cx="630" cy="120" r="1"/><circle cx="660" cy="120" r="1"/><circle cx="690" cy="120" r="1"/><circle cx="720" cy="120" r="1"/><circle cx="750" cy="120" r="1"/><circle cx="780" cy="120" r="1"/><circle cx="810" cy="120" r="1"/><circle cx="840" cy="120" r="1"/><circle cx="870" cy="120" r="1"/>
-    <circle cx="30" cy="150" r="1"/><circle cx="60" cy="150" r="1"/><circle cx="90" cy="150" r="1"/><circle cx="120" cy="150" r="1"/><circle cx="150" cy="150" r="1"/><circle cx="180" cy="150" r="1"/><circle cx="210" cy="150" r="1"/><circle cx="240" cy="150" r="1"/><circle cx="270" cy="150" r="1"/><circle cx="300" cy="150" r="1"/><circle cx="330" cy="150" r="1"/><circle cx="360" cy="150" r="1"/><circle cx="390" cy="150" r="1"/><circle cx="420" cy="150" r="1"/><circle cx="450" cy="150" r="1"/><circle cx="480" cy="150" r="1"/><circle cx="510" cy="150" r="1"/><circle cx="540" cy="150" r="1"/><circle cx="570" cy="150" r="1"/><circle cx="600" cy="150" r="1"/><circle cx="630" cy="150" r="1"/><circle cx="660" cy="150" r="1"/><circle cx="690" cy="150" r="1"/><circle cx="720" cy="150" r="1"/><circle cx="750" cy="150" r="1"/><circle cx="780" cy="150" r="1"/><circle cx="810" cy="150" r="1"/><circle cx="840" cy="150" r="1"/><circle cx="870" cy="150" r="1"/>
-    <circle cx="30" cy="180" r="1"/><circle cx="60" cy="180" r="1"/><circle cx="90" cy="180" r="1"/><circle cx="120" cy="180" r="1"/><circle cx="150" cy="180" r="1"/><circle cx="180" cy="180" r="1"/><circle cx="210" cy="180" r="1"/><circle cx="240" cy="180" r="1"/><circle cx="270" cy="180" r="1"/><circle cx="300" cy="180" r="1"/><circle cx="330" cy="180" r="1"/><circle cx="360" cy="180" r="1"/><circle cx="390" cy="180" r="1"/><circle cx="420" cy="180" r="1"/><circle cx="450" cy="180" r="1"/><circle cx="480" cy="180" r="1"/><circle cx="510" cy="180" r="1"/><circle cx="540" cy="180" r="1"/><circle cx="570" cy="180" r="1"/><circle cx="600" cy="180" r="1"/><circle cx="630" cy="180" r="1"/><circle cx="660" cy="180" r="1"/><circle cx="690" cy="180" r="1"/><circle cx="720" cy="180" r="1"/><circle cx="750" cy="180" r="1"/><circle cx="780" cy="180" r="1"/><circle cx="810" cy="180" r="1"/><circle cx="840" cy="180" r="1"/><circle cx="870" cy="180" r="1"/>
-  </g>
-
-  <!-- PCB traces — left side -->
-  <g filter="url(#glow)" stroke="#00ffb2" stroke-width="1.2" fill="none" opacity="0.5">
-    <line x1="30" y1="60" x2="150" y2="60"/>
-    <line x1="150" y1="60" x2="150" y2="120"/>
-    <line x1="150" y1="120" x2="90" y2="120"/>
-    <line x1="90" y1="120" x2="90" y2="170"/>
-    <line x1="30" y1="90" x2="60" y2="90"/>
-    <line x1="60" y1="90" x2="60" y2="150"/>
-    <line x1="60" y1="150" x2="120" y2="150"/>
-    <line x1="120" y1="150" x2="120" y2="180"/>
-    <line x1="30" y1="150" x2="30" y2="30"/>
-  </g>
-
-  <!-- PCB traces — right side -->
-  <g filter="url(#glow)" stroke="#00ffb2" stroke-width="1.2" fill="none" opacity="0.5">
-    <line x1="870" y1="60" x2="750" y2="60"/>
-    <line x1="750" y1="60" x2="750" y2="120"/>
-    <line x1="750" y1="120" x2="810" y2="120"/>
-    <line x1="810" y1="120" x2="810" y2="170"/>
-    <line x1="870" y1="90" x2="840" y2="90"/>
-    <line x1="840" y1="90" x2="840" y2="150"/>
-    <line x1="840" y1="150" x2="780" y2="150"/>
-    <line x1="780" y1="150" x2="780" y2="180"/>
-    <line x1="870" y1="150" x2="870" y2="30"/>
-  </g>
-
-  <!-- Solder pads / nodes — left -->
-  <g filter="url(#glow-strong)">
-    <circle cx="150" cy="60" r="4" fill="#00ffb2"><animate attributeName="opacity" values="1;0.3;1" dur="2.1s" repeatCount="indefinite"/></circle>
-    <circle cx="150" cy="120" r="4" fill="#00ffb2"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/></circle>
-    <circle cx="90" cy="120" r="3" fill="#00e5a0"><animate attributeName="opacity" values="1;0.4;1" dur="2.5s" repeatCount="indefinite"/></circle>
-    <circle cx="60" cy="90" r="3" fill="#00ffb2"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.6s" repeatCount="indefinite"/></circle>
-    <circle cx="60" cy="150" r="3" fill="#00e5a0"><animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite"/></circle>
-    <circle cx="120" cy="150" r="4" fill="#00ffb2"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.0s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <!-- Solder pads / nodes — right -->
-  <g filter="url(#glow-strong)">
-    <circle cx="750" cy="60" r="4" fill="#00ffb2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.1s" repeatCount="indefinite"/></circle>
-    <circle cx="750" cy="120" r="4" fill="#00ffb2"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
-    <circle cx="810" cy="120" r="3" fill="#00e5a0"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/></circle>
-    <circle cx="840" cy="90" r="3" fill="#00ffb2"><animate attributeName="opacity" values="1;0.5;1" dur="1.6s" repeatCount="indefinite"/></circle>
-    <circle cx="840" cy="150" r="3" fill="#00e5a0"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.3s" repeatCount="indefinite"/></circle>
-    <circle cx="780" cy="150" r="4" fill="#00ffb2"><animate attributeName="opacity" values="1;0.4;1" dur="2.0s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <!-- IC chip — left -->
-  <g filter="url(#glow)">
-    <rect x="38" y="68" width="36" height="24" rx="3" fill="#0d2a1a" stroke="#00ffb2" stroke-width="1"/>
-    <line x1="44" y1="68" x2="44" y2="62" stroke="#00ffb2" stroke-width="1.2"/>
-    <line x1="52" y1="68" x2="52" y2="62" stroke="#00ffb2" stroke-width="1.2"/>
-    <line x1="60" y1="68" x2="60" y2="62" stroke="#00ffb2" stroke-width="1.2"/>
-    <line x1="44" y1="92" x2="44" y2="98" stroke="#00ffb2" stroke-width="1.2"/>
-    <line x1="52" y1="92" x2="52" y2="98" stroke="#00ffb2" stroke-width="1.2"/>
-    <line x1="60" y1="92" x2="60" y2="98" stroke="#00ffb2" stroke-width="1.2"/>
-    <text x="56" y="84" font-size="6" fill="#00ffb2" text-anchor="middle" font-family="monospace"></text>
-  </g>
-
-  <!-- IC chip — right -->
-  <g filter="url(#glow)">
-    <rect x="826" y="68" width="36" height="24" rx="3" fill="#0d2a1a" stroke="#00ffb2" stroke-width="1"/>
-    <line x1="832" y1="68" x2="832" y2="62" stroke="#00ffb2" stroke-width="1.2"/>
-    <line x1="840" y1="68" x2="840" y2="62" stroke="#00ffb2" stroke-width="1.2"/>
-    <line x1="848" y1="68" x2="848" y2="62" stroke="#00ffb2" stroke-width="1.2"/>
-    <line x1="832" y1="92" x2="832" y2="98" stroke="#00ffb2" stroke-width="1.2"/>
-    <line x1="840" y1="92" x2="840" y2="98" stroke="#00ffb2" stroke-width="1.2"/>
-    <line x1="848" y1="92" x2="848" y2="98" stroke="#00ffb2" stroke-width="1.2"/>
-    <text x="844" y="84" font-size="6" fill="#00ffb2" text-anchor="middle" font-family="monospace">IC</text>
-  </g>
-
-  <!-- Animated current pulses on traces -->
-  <circle r="3" fill="#ffffff" opacity="0.9" filter="url(#glow-strong)">
-    <animateMotion dur="3s" repeatCount="indefinite" path="M30,60 L150,60 L150,120 L90,120 L90,170"/>
-  </circle>
-  <circle r="2.5" fill="#00ffb2" opacity="0.8" filter="url(#glow)">
-    <animateMotion dur="2.5s" repeatCount="indefinite" begin="0.8s" path="M870,60 L750,60 L750,120 L810,120 L810,170"/>
-  </circle>
-  <circle r="2" fill="#7fffda" opacity="0.9" filter="url(#glow)">
-    <animateMotion dur="4s" repeatCount="indefinite" begin="1.5s" path="M30,90 L60,90 L60,150 L120,150 L120,180"/>
-  </circle>
-  <circle r="2" fill="#7fffda" opacity="0.9" filter="url(#glow)">
-    <animateMotion dur="3.5s" repeatCount="indefinite" begin="0.3s" path="M870,90 L840,90 L840,150 L780,150 L780,180"/>
-  </circle>
-
-  <!-- Main title -->
-  <text x="450" y="88" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" letter-spacing="2" filter="url(#glow-strong)"> Sagar Yadav </text>
-
-  <!-- Subtitle with tech-green accent -->
-  <text x="450" y="116" font-size="13" fill="#00ffb2" text-anchor="middle" font-family="'Courier New', monospace" letter-spacing="1" filter="url(#glow)">⚡ Electrical Engineer · Embedded Systems · IoT+AI · FPGA⚡</text>
-
-  <!-- Decorative horizontal trace through center -->
-  <line x1="200" y1="130" x2="340" y2="130" stroke="#00ffb2" stroke-width="0.8" opacity="0.3" filter="url(#glow)"/>
-  <line x1="560" y1="130" x2="700" y2="130" stroke="#00ffb2" stroke-width="0.8" opacity="0.3" filter="url(#glow)"/>
-  <circle cx="340" cy="130" r="2.5" fill="#00ffb2" opacity="0.5"/>
-  <circle cx="560" cy="130" r="2.5" fill="#00ffb2" opacity="0.5"/>
-
-  <!-- Location tag -->
-  <text x="450" y="152" font-size="11" fill="#7fffda" text-anchor="middle" font-family="'Courier New', monospace" opacity="0.7">📍 Lucknow, India  |  Gati Shakti Vishwavidyalaya (Ministry of Railway)</text>
-
-  <!-- Bottom border trace -->
-  <line x1="0" y1="195" x2="900" y2="195" stroke="#00ffb2" stroke-width="0.5" opacity="0.2"/>
-  <rect x="0" y="196" width="900" height="4" fill="url(#trace-h)" rx="2"/>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&height=60&lines=Hey+there!+I'm+Sagar+Yadav+%F0%9F%91%8B;Electrical+Engineer+%E2%9A%A1;Embedded+Systems+%7C+IoT+%7C+FPGA;Building+at+the+edge+of+hardware+%26+code" alt="Typing SVG" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -259,8 +109,8 @@ Transportation and logistics optimisation using NumPy, Pandas, and OpenCV-based 
 
 <div align="center">
 
-*"Building at the edge of hardware and intelligence."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" />
+
+*"Building at the edge of hardware and intelligence."*
 
 </div>
