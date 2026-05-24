@@ -1,18 +1,220 @@
-# 💫 About Me:
-<h1 align="center">Hey there, I'm Sagar Yadav 👋</h1><br><br><p align="center"><br>  <b>Electrical Engineering Student · Embedded Systems · IoT · Research</b><br><br>  <i>Gati Shakti Vishwavidyalaya (Ministry of Railways), Vadodara</i><br></p><br><br><p align="center"><br>  <a href="https://linkedin.com/in/sagaryadavgsv"><br>    <img src="https://img.shields.io/badge/LinkedIn-sagaryadavgsv-0077B5?style=flat&logo=linkedin&logoColor=white" /><br>  </a><br>  <a href="mailto:sagaryadavgsv.work@gmail.com"><br>    <img src="https://img.shields.io/badge/Email-sagaryadavgsv.work@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /><br>  </a><br>  <img src="https://img.shields.io/badge/Location-Lucknow,%20India-orange?style=flat&logo=google-maps&logoColor=white" /><br></p><br><br>---<br><br>## 🚀 About Me<br><br>I'm a first-year B.Tech Electrical Engineering student passionate about building things that sit at the intersection of **hardware, software, and intelligent systems**. From IoT-powered parking solutions to FPGA-based secure transport research, I like working on problems that matter.<br><br>- 🔬 Upcoming Research Intern at **IIIT Bhopal** — transportation & logistics optimisation using computer vision<br>- 🔐 Researching **Secure Smart Transportation using VLSI/FPGA** (Cryptography + Hardware)<br>- 💼 Web Manager at **Stootap** — streamlined startup onboarding and platform optimisation<br>- 🏆 First Runner-Up at **National Level Hackathon, IIT Gandhinagar** (IoT Smart Parking)<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Languages**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)<br>![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat)<br><br>**Web Development**<br>![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)<br>![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)<br><br>**Hardware & Microcontrollers**<br>![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)<br>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)<br>![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)<br><br>**AI/ML & Vision**<br>![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)<br>![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)<br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)<br><br>**Cloud & Tools**<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)<br><br>---<br><br>## 🔭 Featured Projects<br><br>### 🅿️ IoT Smart Parking Solution<br>> Real-time parking availability monitoring with IoT sensors and a live web dashboard for dynamic slot tracking.  <br>> 🏆 **First Runner-Up — National Level Hackathon, IIT Gandhinagar**  <br>> `IoT Sensors` `Embedded Systems` `Real-time Dashboard`<br><br>---<br><br>### 🚤 Autonomous Hovercraft Prototype<br>> Developed propulsion electronics and air-cushion structure; presented scalability to the **Indian Coast Guard (ICG)** for coastal surveillance and defence logistics.  <br>> 🥇 **1st Prize — College-Level Competition**  <br>> `Propulsion Electronics` `Air-Cushion Design` `Embedded Systems`<br><br>---<br><br>### 🔐 RFID-Based Secure Lock System<br>> Multi-layer access control using RFID authentication with ESP32; encrypted credential storage and configurable access hierarchy.  <br>> `ESP32` `RFID` `Embedded C`<br><br>---<br><br>### 📡 ESP32 Wireless Tx–Rx System<br>> Bidirectional Wi-Fi communication architecture for real-time control and sensor telemetry — cost-efficient alternative to conventional RF systems with lower latency.  <br>> `ESP32` `Wi-Fi` `Telemetry`<br><br>---<br><br>### 🤖 Internship & Hackathon Finder Bot<br>> Automated Telegram bot for discovering opportunities, deployed on AWS Lambda for 24/7 uptime with scheduled data aggregation pipelines.  <br>> `Python` `Telegram API` `AWS Lambda`<br><br>---<br><br>### 🔥 Nichrome-Based Battery-Powered Microwave<br>> Portable regulated heating system using nichrome wire elements with custom thermal circuit.  <br>> 🥇 **1st Prize — KVS Regional Science Exhibition**  <br>> `Nichrome Heating` `Circuit Design` `Thermal Management`<br><br>---<br><br>## 🎯 Currently Working On<br><br>- 🔐 **Secure Smart Transportation (VLSI/FPGA)** — hardware-accelerated traffic management & V2I communication<br>- 📦 Preparing for **Research Internship at IIIT Bhopal** (Computer Vision + Logistics, July 2026)<br><br>---<br><br>## 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=sagaryadavgsv&show_icons=true&theme=default&hide_border=true" height="160"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagaryadavgsv&layout=compact&theme=default&hide_border=true" height="160"/><br></p><br><br>---<br><br>## 🏅 Achievements<br><br>| Year | Achievement |<br>|------|-------------|<br>| 2026 | 🥈 First Runner-Up — National Hackathon, IIT Gandhinagar |<br>| 2025 | 🥇 1st Prize — College-Level Hovercraft Competition |<br>| 2023–24 | 🎓 Head Boy, Kendriya Vidyalaya |<br>| 2022 | 🥇 1st Prize — KVS Regional Science Exhibition |<br>| — | 3× SSB Conference Out |<br><br>---<br><br>## 💡 Interests<br><br>`Transportation Systems` · `Embedded Electronics` · `Research & Emerging Tech` · `Entrepreneurship`<br><br>---<br><br><p align="center"><br>  <i>"Building at the edge of hardware and intelligence."</i><br></p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Sagar%20Yadav&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Electrical%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20Research&descSize=15&descAlignY=85&descColor=cccccc" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagaryadav_says) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagaryadavgsv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@average2amazing) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagaryadavgsv.work@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SagaryadavGSV&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SagaryadavGSV&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SagaryadavGSV&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagaryadavgsv)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagaryadavgsv.work@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sagaryadav_says)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@average2amazing)
+[![Profile Views](https://komarev.com/ghpvc/?username=SagaryadavGSV&style=for-the-badge&color=0e75b6)](https://github.com/SagaryadavGSV)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SagaryadavGSV&icon=3&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```python
+sagar = {
+    "education"  : "B.Tech Electrical Engineering @ Gati Shakti Vishwavidyalaya (MoR), Vadodara",
+    "work"       : "Web Manager @ Stootap",
+    "research"   : ["Secure Smart Transportation (VLSI/FPGA)", "Upcoming Intern @ IIIT Bhopal"],
+    "interests"  : ["Embedded Systems", "IoT", "Transportation Tech", "Entrepreneurship"],
+    "achievement": "🏆 First Runner-Up — National Hackathon, IIT Gandhinagar",
+    "currently"  : "FPGA + Cryptography for V2I secure communication"
+}
+```
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🏅 | Achievement | Year |
+|:---:|---|:---:|
+| 🥈 | First Runner-Up — National Level Hackathon, IIT Gandhinagar | 2026 |
+| 🥇 | 1st Prize — College-Level Hovercraft Competition | 2025 |
+| 🎓 | Head Boy — Kendriya Vidyalaya | 2023–24 |
+| 🥇 | 1st Prize — KVS Regional Science Exhibition | 2022 |
+| ⭐ | 3× SSB Conference Out | — |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🅿️ IoT Smart Parking Solution
+Real-time parking availability monitoring with IoT sensors and a live web dashboard for dynamic slot tracking.
+
+**🏆 First Runner-Up — IIT Gandhinagar Hackathon**
+
+![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-555?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Live_Dashboard-0077B5?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚤 Autonomous Hovercraft Prototype
+Propulsion electronics and air-cushion structure; scalability presented to the **Indian Coast Guard (ICG)** for coastal surveillance.
+
+**🥇 1st Prize — College-Level Competition**
+
+![Electronics](https://img.shields.io/badge/Propulsion_Electronics-555?style=flat-square)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-555?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 RFID-Based Secure Lock System
+Multi-layer access control using RFID authentication with ESP32; encrypted credential storage and configurable access hierarchy.
+
+![ESP32](https://img.shields.io/badge/ESP32-000?style=flat-square&logo=espressif&logoColor=white)
+![RFID](https://img.shields.io/badge/RFID-0077B5?style=flat-square)
+![EmbeddedC](https://img.shields.io/badge/Embedded_C-555?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 ESP32 Wireless Tx–Rx System
+Bidirectional Wi-Fi communication for real-time control and sensor telemetry — cost-efficient alternative to conventional RF systems.
+
+![ESP32](https://img.shields.io/badge/ESP32-000?style=flat-square&logo=espressif&logoColor=white)
+![WiFi](https://img.shields.io/badge/Wi--Fi-0077B5?style=flat-square)
+![Telemetry](https://img.shields.io/badge/Telemetry-555?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Internship & Hackathon Finder Bot
+Automated Telegram bot for discovering opportunities; deployed on AWS Lambda for 24/7 uptime with scheduled pipelines.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Nichrome Battery-Powered Microwave
+Portable regulated heating system using nichrome wire elements with custom thermal circuit design.
+
+**🥇 1st Prize — KVS Regional Science Exhibition**
+
+![Circuit](https://img.shields.io/badge/Circuit_Design-555?style=flat-square)
+![Thermal](https://img.shields.io/badge/Thermal_Management-D14836?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Research & Ongoing Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Secure Smart Transportation — VLSI/FPGA** *(May 2026 – Ongoing)*
+
+Researching hardware-accelerated traffic management, secure V2I communication, and real-time transport data processing by integrating Cryptography with VLSI/FPGA.
+
+</td>
+<td width="50%" valign="top">
+
+**🚦 Research Intern @ IIIT Bhopal** *(July – Aug 2026)*
+
+Transportation and logistics optimisation using NumPy, Pandas, and OpenCV-based computer vision pipelines with real-time vehicle monitoring and traffic flow analysis.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+**Web & Frameworks**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Hardware & Microcontrollers**
+
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+**AI / ML & Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Cloud, DB & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.shion.dev/api?username=SagaryadavGSV&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
+
+![Streak](https://streak-stats.demolab.com/?user=SagaryadavGSV&theme=shadow_green&hide_border=false)
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=SagaryadavGSV&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building at the edge of hardware and intelligence."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" />
+
+</div>
